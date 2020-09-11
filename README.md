@@ -1,6 +1,8 @@
-##pandas-challenge
+## pandas-challenge
 This is my repository link for HW4 pandas-challenge material
+
 The Jupyter Notebook was developed to address the task of analyzing data for the Heroes of Pymoli fantasy game
+
 A written description of three observable trends based on the data analyzed may be found at the bottom of my Jupyter Notebook
 My three observable trends based on Heroes of Pymoli data:
 1. Of the 576 players, the overwhelming majority are male (84%). The balance of players spread between female (14%)
@@ -14,4 +16,5 @@ relative cash cow, this group must be defended as strategies for future growth a
 it is noteworthy that the smallest gender group (other / non-disclosed) spends the most on average for optional items
 ($3.35 versus $3.02 for males and $3.20 for females). Based on the results of necessary research, it may make sense to
 consider increasing marketing and product development spend on this group.
-Please know my final version of code is located in the pandas-challenge folder and is called HW4_heroesofpymoli.ipynb
+
+Please know my final version of code is located in the HeroesOfPymoli folder and is called HW4_heroesofpymoli.ipynb.
