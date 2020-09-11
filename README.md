@@ -4,7 +4,7 @@ This is my repository link for HW4 pandas-challenge material.
 The Jupyter Notebook was developed to address the task of analyzing data for the Heroes of Pymoli fantasy game.
 
 My three observable trends based on Heroes of Pymoli data:
-1. Of the 576 players, the overwhelming majority are male (84%). The balance of players spread between female (14%)
+1. Of the 576 players, the overwhelming majority are male (84%). The balance of players are spread between female (14%)
 and other / non-disclosed individuals (2%). While I would have guessed a preponderance of male players, I did not expect
 the distribution to be so skewed. From the standpoint of planning for future business, it would be interesting to study
 trend shifts across the male / female/ other groups over the past decade.
