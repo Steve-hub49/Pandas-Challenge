@@ -1,9 +1,8 @@
 ## pandas-challenge
-This is my repository link for HW4 pandas-challenge material
+This is my repository link for HW4 pandas-challenge material.
 
-The Jupyter Notebook was developed to address the task of analyzing data for the Heroes of Pymoli fantasy game
+The Jupyter Notebook was developed to address the task of analyzing data for the Heroes of Pymoli fantasy game.
 
-A written description of three observable trends based on the data analyzed may be found at the bottom of my Jupyter Notebook
 My three observable trends based on Heroes of Pymoli data:
 1. Of the 576 players, the overwhelming majority are male (84%). The balance of players spread between female (14%)
 and other / non-disclosed individuals (2%). While I would have guessed a preponderance of male players, I did not expect
