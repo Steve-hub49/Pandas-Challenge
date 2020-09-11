@@ -17,4 +17,4 @@ it is noteworthy that the smallest gender group (other / non-disclosed) spends t
 ($3.35 versus $3.02 for males and $3.20 for females). Based on the results of necessary research, it may make sense to
 consider increasing marketing and product development spend on this group.
 
-Please know my final version of code is located in the HeroesOfPymoli folder and is called HW4_heroesofpymoli.ipynb.
+Please know my final version of code is located in the [HeroesOfPymoli](https://github.com/Steve-hub49/pandas-challenge/tree/master/HeroesOfPymoli) folder and is called HW4_heroesofpymoli.ipynb.
