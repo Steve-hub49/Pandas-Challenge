@@ -8,7 +8,7 @@ My three observable trends based on Heroes of Pymoli data:
 and other / non-disclosed individuals (2%). While I would have guessed a preponderance of male players, I did not expect
 the distribution to be so skewed. From the standpoint of planning for future business, it would be interesting to study
 trend shifts across the male / female/ other groups over the past decade.
-2. The 20-24 player group represents a critical target market for the House of Pymoli management team. Not only do they
+2. The 20-24 year old player group represents a critical target market for the House of Pymoli management team. Not only do they
 account for the largest age demographic, this group also leads in overall purchases as well as total purchase value. A
 relative cash cow, this group must be defended as strategies for future growth are developed.
 3. While the average purchase price among those spending money on optional items is relatively even across gender groups,
