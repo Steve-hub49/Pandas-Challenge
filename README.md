@@ -1,4 +1,4 @@
-## Pandas-challenge
+# Pandas-challenge
 This is my repository link for HW4 pandas-challenge material.
 
 The Jupyter Notebook was developed to address the task of analyzing data for the Heroes of Pymoli fantasy game.
